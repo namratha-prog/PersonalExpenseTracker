@@ -1,0 +1,4 @@
+# Ignore executable and data files
+*.exe
+*.out
+transactions.txt
